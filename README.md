@@ -1,0 +1,4 @@
+# Urbanization-Effects-on-Air-Quality-Rainfall-Clouds-and-Climate-Change
+Studied about different ways of analysing rainfall increase or decrease on the downwind side of an urban area, over an urban area, left and right side of an urban area, and upwind side of an urban area.
+Measured mean temperature, mean daytime and mean nighttime temperature, mean minimum and mean maximum temperature, mean rainfall, mean daytime and mean nighttime rainfall, mean minimum and mean maximum rainfall, mean humidity, mean daytime and mean nighttime humidity, mean minimum and mean maximum humidity of total 18 different locations of and outside the Chennai City.
+Used Python, Python Geopandas, and different Python libraries such as Pandas, Numpy, Matplotlib, for analysing and plotting the above measured values on a Python Basemap of Chennai and its nearby cities.
